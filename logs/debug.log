@@ -1,0 +1,39 @@
+[2019-07-03T14:28:52.713] [DEBUG] <supportbank.js> - The amount on the 28th row could not be converted to a number.
+[2019-07-03T14:28:52.717] [DEBUG] <supportbank.js> - As such, the transaction on the 28th row could not be added.
+
+[2019-07-03T14:28:52.721] [DEBUG] <supportbank.js> - The date on the 52th row could not be converted to a date.
+[2019-07-03T14:28:52.722] [DEBUG] <supportbank.js> - As such, the transaction on the 52th row could not be added.
+
+[2019-07-03T14:28:52.723] [DEBUG] <supportbank.js> - The cell on the 53th row and 1th column was unexpectedly empty.
+[2019-07-03T14:28:52.723] [DEBUG] <supportbank.js> - The amount on the 53th row could not be converted to a number.
+[2019-07-03T14:28:52.725] [DEBUG] <supportbank.js> - The date on the 53th row could not be converted to a date.
+[2019-07-03T14:28:52.725] [DEBUG] <supportbank.js> - As such, the transaction on the 53th row could not be added.
+
+[2019-07-03T14:30:46.749] [DEBUG] <supportbank.js> - The amount on the 28th row could not be converted to a number.
+[2019-07-03T14:30:46.753] [DEBUG] <supportbank.js> - As such, the transaction on the 28th row could not be added.
+
+[2019-07-03T14:30:46.755] [DEBUG] <supportbank.js> - The date on the 52th row could not be converted to a date.
+[2019-07-03T14:30:46.756] [DEBUG] <supportbank.js> - As such, the transaction on the 52th row could not be added.
+
+[2019-07-03T14:30:46.756] [DEBUG] <supportbank.js> - The cell on the 53th row and 1th column was unexpectedly empty.
+[2019-07-03T14:30:46.757] [DEBUG] <supportbank.js> - The amount on the 53th row could not be converted to a number.
+[2019-07-03T14:30:46.758] [DEBUG] <supportbank.js> - The date on the 53th row could not be converted to a date.
+[2019-07-03T14:30:46.759] [DEBUG] <supportbank.js> - As such, the transaction on the 53th row could not be added.
+
+[2019-07-03T14:34:24.041] [DEBUG] <supportbank.js> - The cell on the 150th row and 1th column was unexpectedly empty.
+[2019-07-03T14:34:24.044] [DEBUG] <supportbank.js> - The amount on the 150th row could not be converted to a number.
+[2019-07-03T14:34:24.046] [DEBUG] <supportbank.js> - The date on the 150th row could not be converted to a date.
+[2019-07-03T14:34:24.046] [DEBUG] <supportbank.js> - As such, the transaction on the 150th row could not be added.
+
+[2019-07-03T16:05:54.295] [DEBUG] <supportbank.js> - The cell on the 150th row and 1th column was unexpectedly empty.
+[2019-07-03T16:05:54.299] [DEBUG] <supportbank.js> - The cell on the 150th row and 2th column was unexpectedly empty.
+[2019-07-03T16:05:54.301] [DEBUG] <supportbank.js> - The cell on the 150th row and 3th column was unexpectedly empty.
+[2019-07-03T16:05:54.301] [DEBUG] <supportbank.js> - The cell on the 150th row and 4th column was unexpectedly empty.
+[2019-07-03T16:05:54.303] [DEBUG] <supportbank.js> - The date on the 150th row could not be converted to a date.
+[2019-07-03T16:05:54.304] [DEBUG] <supportbank.js> - As such, the transaction on the 150th row could not be added.
+
+[2019-07-03T16:05:54.304] [DEBUG] <supportbank.js> - The cell on the 151th row and 1th column was unexpectedly empty.
+[2019-07-03T16:05:54.305] [DEBUG] <supportbank.js> - The amount on the 151th row could not be converted to a number.
+[2019-07-03T16:05:54.307] [DEBUG] <supportbank.js> - The date on the 151th row could not be converted to a date.
+[2019-07-03T16:05:54.307] [DEBUG] <supportbank.js> - As such, the transaction on the 151th row could not be added.
+
