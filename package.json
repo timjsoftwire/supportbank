@@ -5,6 +5,8 @@
   "main": "supportbank.js",
   "dependencies": {
     "csv-reader": "^1.0.3",
+    "fast-xml-parser": "^3.12.16",
+    "log4js": "^4.4.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {},
