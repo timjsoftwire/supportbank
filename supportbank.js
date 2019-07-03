@@ -50,7 +50,9 @@ class Account {
 
     getAllTransactions() {
         var acc = [];
-        this.transactions.forEach(element => acc.push(element[0]));
+        this.transactions.forEach(element => {
+            var currentTransaction = element[0];
+            acc.push("Date: ".concat(currentTransaction.date, "\nFrom: ",currentTransaction.from,"\nTo: ", currentTransaction.to,"\nNarrative: ",currentTransaction.narrative,"\nAmount: ", currentTransaction.amount))});
         return acc;
     }
 
@@ -69,8 +71,8 @@ class Account {
 }
 
 function addNecessaryAccount(isFrom, name,newTransaction) {
-    var placeholdername = new Account(name);
-    placeholdername.addTransaction(newTransaction,isFrom);
+    var newaccountname = new Account(name);
+    newaccountname.addTransaction(newTransaction,isFrom);
 }
 
 function ListAll() {
@@ -78,7 +80,7 @@ function ListAll() {
 }
 
 function List(name) {
-    console.log(Accounts.find(element => element.name === name).getAllTransactions());
+    console.log(Accounts.find(element => element.name === name).getAllTransactions().join("\n \n"));
 }
 
 function Import_File (filename) {
@@ -157,6 +159,5 @@ function SpreadsheetErrorHandler(currentTransaction) {
     return(transactionAddable);
 }
 
-Import_File("Transactions2012.xml");
-
-ListAll();
+//Import_File("Transactions2012.xml");
+//List("Todd");
